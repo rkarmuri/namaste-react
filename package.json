@@ -1,0 +1,30 @@
+{
+  "name": "episode-1",
+  "version": "1.0.0",
+  "description": "This is a demo course for learning react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkarmuri/namaste-react.git"
+  },
+  "keywords": [
+    "namaste-react",
+    "raju",
+    "react",
+    "course",
+    "learning",
+    "react"
+  ],
+  "author": "Raju Karmuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkarmuri/namaste-react/issues"
+  },
+  "homepage": "https://github.com/rkarmuri/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
