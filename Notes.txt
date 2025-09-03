@@ -4,4 +4,4 @@ Normal/Peer dependecy - specifies that our package is compatible with a particul
 Bundler - parcel, webpack, babel
 package-lock json contains all versions of all the packages installed on the app.
 Tilde(~) - minor changes of version (E.g: x.y.Z -> Z is new version of bug fixes)
-Caret(^) - both minor changes and major updates (E.g: x.Y.Z -> Y is new version of major updates)
+Caret(^) - both minor changes and major updates (E.g: x.Y.Z -> Y is new version of major updates).
